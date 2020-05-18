@@ -6,7 +6,9 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Ha Do Manh. I'm a third-year student at Hanoi University of Science and Technology.
 
-**languages**: Vietnamese, English, Japanese
+### languages 
+- Vietnamese
+- English, Japanese
 
 ### education
 
