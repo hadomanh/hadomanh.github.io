@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
+title: about me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ha Do Manh. I'm a third-year student at Hanoi University of Science and Technology.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**languages**: Vietnamese, English, Japanese
 
-What else do you need?
+### education
 
-### my history
+- Hanoi University of Science and Technology - *Information Technology Specialist*
+- Thai Binh Gifted High School - *Specialization in Physics* 
+- Luong The Vinh Secondary School - *Specialization in Math and Physics*
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### experiences
+
+- C, Java, Javascript
+- HTML, CSS
+- Node.js, ReactJS, Spring Framework 
