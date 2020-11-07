@@ -18,6 +18,6 @@ My name is Ha Do Manh. I'm a third-year student at Hanoi University of Science a
 
 ### experiences
 
-- C, Java, Javascript
-- HTML, CSS
+- C/C++, Java, Javascript, PHP, Ruby
+- HTML, CSS, XML
 - Node.js, ReactJS, Spring Framework 
