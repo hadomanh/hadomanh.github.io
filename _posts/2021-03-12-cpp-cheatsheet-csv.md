@@ -1,13 +1,13 @@
 ---
 layout: post
-title: [Cheatsheet] CSV file management using C++
+title: CSV file management using C++
 subtitle: Discussing about CRUD operations in a CSV file
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumbnail/1.jpg
 share-img: /assets/img/path.jpg
 gh-repo: https://github.com/hadomanh/
 gh-badge: [star, fork, follow]
-tags: [C++, CSV]
+tags: [C++, CSV, cheatsheet]
 ---
 
 **CSV** is a simple file format used to store tabular data such as a spreadsheet or a database. **CSV** stands for **Comma Separated Values**. The data fields in a CSV file are separated/delimited by a comma (', ') and the individual rows are separated by a newline ('\n'). 
